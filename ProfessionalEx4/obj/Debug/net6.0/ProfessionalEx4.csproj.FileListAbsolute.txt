@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\bin\Debug\net6.0\ProfessionalEx4.exe
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\bin\Debug\net6.0\ProfessionalEx4.deps.json
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\bin\Debug\net6.0\ProfessionalEx4.runtimeconfig.json
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\bin\Debug\net6.0\ProfessionalEx4.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\bin\Debug\net6.0\ProfessionalEx4.pdb
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\refint\ProfessionalEx4.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.pdb
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ProfessionalEx4.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson13\ProfessionalEx4\obj\Debug\net6.0\ref\ProfessionalEx4.dll
